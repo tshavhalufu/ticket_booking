@@ -1,0 +1,13 @@
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.csprojAssemblyReference.cache
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.Admin.resources
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.Properties.Resources.resources
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.Reservation.resources
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.GenerateResource.cache
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\MiniProject.Login.resources
+C:\Users\27725\Documents\IS 1003 Pro\MiniProject\MiniProject\obj\Debug\System.InputBoxDialog.resources
